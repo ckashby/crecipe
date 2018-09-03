@@ -62,6 +62,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'better_errors', '~> 2.5'
   gem 'awesome_print', '~> 1.8'
+  gem 'haml', '~> 5.0', '>= 5.0.4'
   # pry ????
 end
 
